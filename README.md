@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita from Ukraine</h1>
-<h3 align="center">I do content on Desing and Web-Development.(i love Neptunia) :></h3>
+<h3 align="center">I do content on Desing and Web-Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aisotooru&label=Profile%20views&color=0e75b6&style=flat" alt="aisotooru" /> </p>
 
