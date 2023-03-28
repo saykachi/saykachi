@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
-<h3 align="center">I do content on Desing and Web-Development</h3>
+<h3 align="center">I do content on Security Researcher and Web-Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aisotooru&label=Profile%20views&color=ff4791&style=flat-square" alt="aisotooru" /> </p>
 
