@@ -1,7 +1,7 @@
 <h1 align="center">you will not run away from the gaze of truth</h1>
 
 <p align="center">
-  <img src="img2saya.jpg" width="700" />
+  <img src="img2saya.jpg" width="900" />
 </p>
 
 ---
