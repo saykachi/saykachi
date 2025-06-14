@@ -8,7 +8,7 @@
 
 ## ❖ who am i
 
-- 🧩 sayakachi / saya'
+- 🧩 saykachi / saya'
 - 🧠 thinker. coder. dreamer.
 - 🕯 i build web apps and backend systems
 - 💙 romcoms, cold nights, and code under the stars
