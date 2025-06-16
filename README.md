@@ -5,6 +5,7 @@
 </p>
 
 ---
+## Silqo - https://silqo.studio
 
 ## ❖ who am i
 
