@@ -5,7 +5,7 @@
 </p>
 
 ---
-## Silqo - https://silqo.studio
+## Silqo - [click](https://silqo.studio)
 
 ## ❖ who am i
 
