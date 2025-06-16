@@ -6,7 +6,7 @@
 
 ---
 ## Silqo - [click](https://silqo.studio)
-
+## Silqo Team - [click](https://github.com/Silqo-Team)
 ## ❖ who am i
 
 - 🧩 saykachi / saya'
