@@ -5,8 +5,6 @@
 </p>
 
 ---
-## Silqo - [click](https://silqo.studio) (temporarily not working)
-## Silqo Team - [click](https://github.com/Silqo-Team)
 ## ❖ who am i
 
 - 🧩 saykachi / saya'
