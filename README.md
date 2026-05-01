@@ -1,19 +1,3 @@
-<h1 align="center">you will not run away from the gaze of truth</h1>
-
-<p align="center">
-  <img src="img2saya.jpg" width="1000" />
-</p>
-
----
-## ❖ who am i
-
-- 🧩 saykachi / saya'
-- 🧠 thinker. coder. dreamer.
-- 🕯 i build web apps and backend systems
-- 💙 romcoms, cold nights, and code under the stars
-- 🌀 lost in thought, often about things that don’t have answers
-
----
 
 ## ❖ tools & languages
 
@@ -25,12 +9,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-1E293B?style=for-the-badge&logo=next.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-111827?style=for-the-badge&logo=mongodb)
 ![Express](https://img.shields.io/badge/-Express-1E293B?style=for-the-badge&logo=express)
-
----
-
-## ❖ current state
-
-> trying to surprise the world, in silence.
 
 ---
 
